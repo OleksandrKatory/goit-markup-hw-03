@@ -54,6 +54,7 @@ img {
 .header-navigation {
     display: flex;
     align-items: center;
+    gap: 40px;
 }
 
 .nav-list {
