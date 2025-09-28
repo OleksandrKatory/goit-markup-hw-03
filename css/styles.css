@@ -59,7 +59,7 @@ img {
 .nav-list {
     display: flex;
     align-items: center;
-    gap: 40px;
+    
 }
 .nav-logo {
     font-family: "Raleway", sans-serif;
@@ -79,6 +79,7 @@ img {
 
 
 .nav-link{   
+    display: block;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -130,6 +131,7 @@ img {
     text-align: center;
     color: #fff;
     margin: 0 auto;
+    margin-bottom: 48px;
     max-width: 496px;
 }
 
